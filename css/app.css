@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.container {
+    margin-top: 5%;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+header {
+    font-style: italic;
+    background-color: lightblue;
+    font-weight: bold;
+    color: black;
+    font-size: 300%;
+    text-align: center;
+    line-height: 100px;
+    padding: 10px;
+}
+
+tfoot{
+    font-style: italic;
+}
+footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 80%;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+main {
+    padding: 10px;
+}
